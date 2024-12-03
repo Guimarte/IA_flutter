@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "707883093308",
+    "project_id": "pocia-f423a",
+    "storage_bucket": "pocia-f423a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707883093308:android:50ac1c76e2e6af6d552239",
+        "android_client_info": {
+          "package_name": "com.example.poc_ia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs5VMkW5o1lYIjiMWWoj8yJpWgikYnKm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
