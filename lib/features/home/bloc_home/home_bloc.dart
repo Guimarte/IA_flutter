@@ -12,7 +12,6 @@ class HomeBloc extends Bloc<HomeEvents, HomeState> {
     emitter(HomeStateLoading());
 
     String test = await RequestAnsewerIAImplementation().call(event.question);
-    emitter(HomeStateLoading());
     emitter(HomeStateLoaded(ansewer: test));
   }
 }
