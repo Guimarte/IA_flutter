@@ -1,16 +1,31 @@
-# poc_ia
+#IA_flutter: Exploring AI with Flutter 🚀
+This project showcases the integration of Firebase with Google's Gemini AI, aimed at automating responses for a professional project. Using the BLoC pattern to manage state and firebase_vertexai for AI responses, this simple yet powerful solution demonstrates the potential of AI within Flutter apps.
 
-A new Flutter project.
+##Features
+Firebase integration with Gemini AI for automatic responses
+State management with BLoC for efficient handling of app state
+Simple implementation with high potential for future scalability
+Getting Started
+Clone the repository and follow the setup instructions:
 
-## Getting Started
+Clone the repo:
 
-This project is a starting point for a Flutter application.
+bash
+git clone https://github.com/Guimarte/IA_flutter.git
+Install dependencies:
 
-A few resources to get you started if this is your first Flutter project:
+bash
+flutter pub get
+Set up Firebase in your project (follow Firebase docs).
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Run the app:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+bash
+flutter run
+Technologies Used
+Flutter
+Firebase
+Gemini AI
+BLoC Pattern
+
+#Flutter #Firebase #InteligênciaArtificial #GEMINI #BLOC #Tecnologia #Desenvolvimento
